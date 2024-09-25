@@ -1,0 +1,21 @@
+{
+    "A fresh verification link has been sent to your email address.": "Se ha enviado un nuevo enlace de verificación a su dirección de correo electrónico.",
+    "Before proceeding, please check your email for a verification link.": "Antes de continuar, verifique su correo electrónico para obtener un enlace de verificación.",
+    "If you did not receive the email": "si no recibiste el correo",
+    "click here to request another": "haga clic aquí para solicitar otro",
+    "Log in": "inicio de sesion",
+    "Register": "registro",
+    "Send Feedback": "Enviar Comentarios ",
+    "A name is required" : "Require un nombre",
+    "An email is required" : "Requiere un correo electronico",
+    "Email is not valid" : "Correo no valido",
+    "A phone number is required" : "Requiere un numero telefonico", 
+    "Form submission successful!" : "Envio de formulario exitoso!!",
+    "Error sending message!" : "Error de envio de mensaje",
+    "Send Password Reset Link" : "Enviar enlace de restablecimiento de contraseña",
+    "Email Address" : "Correo Electronico",
+    "Reset Password" : "Restablecer Contraseña",
+    "Confirm Password" : "Confromar Contraseña",
+    "Please confirm your password before continuing" : "Por favor confirma tu contraseña para continuar",
+    "title" : "titulo"
+}
